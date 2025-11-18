@@ -1,4 +1,4 @@
--- Silent Aim (Paid)
+-- Silent Aim (Paid)..
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
